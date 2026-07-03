@@ -6,4 +6,4 @@ A Free, Open Source Chess Engine
 
 ## Overview
 
-**BlueWhale Engine** is a Hobby Project From The Lichess User **YuhasTV**, This is a Multi-Variant Bot Made From Combining [Stockfish][https://github.com/official-stockfish/Stockfish] and [Fairy-Stockfish][https://github.com/fairy-stockfish/Fairy-Stockfish]
+**BlueWhale Engine** is a Hobby Project From The Lichess User **YuhasTV**, This is a Multi-Variant Bot Made From Combining [Stockfish](https://github.com/official-stockfish/Stockfish) and [Fairy-Stockfish](https://github.com/fairy-stockfish/Fairy-Stockfish)
