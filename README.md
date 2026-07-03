@@ -11,4 +11,4 @@ A Free, Open Source Chess Engine
 
 ## Contributing
 
-I Currently Do NOT Accept Contributions to This Project as It is a Hobby Project, But if You Want to Experiment With This Bot Feel Free to Fork it 
+I Currently Do NOT Accept Contributions to This Project as It is a Hobby , But if You Want to Experiment With This Bot Feel Free to Fork it 
